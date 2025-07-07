@@ -22,4 +22,5 @@ A simple and user-friendly expense tracker built with **React** and styled using
 - LocalStorage API
 
   ---
+
   ## 🪄 Live Link : https://expense-tracker-eosin-gamma.vercel.app/
